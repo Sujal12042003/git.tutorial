@@ -1,1 +1,1 @@
-this is first vcs class.
+this is first class
